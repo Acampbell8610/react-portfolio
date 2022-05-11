@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/react-portfolio/static/css/main.6d547adc.css",
+    "main.js": "/react-portfolio/static/js/main.ce2b00a0.js",
+    "static/media/Profile Photo.png": "/react-portfolio/static/media/Profile Photo.eef9975a2681b1f08f3b.png",
+    "static/media/Commercial.png": "/react-portfolio/static/media/Commercial.80cd9944da8fde3f62e3.png",
+    "static/media/Cocktail Party (3).png": "/react-portfolio/static/media/Cocktail Party (3).ec9ffa3aeaf43f65e2f5.png",
+    "static/media/Profile Photo1.png": "/react-portfolio/static/media/Profile Photo1.c751b4f92dde3be8e063.png",
+    "static/media/Run Buddy.png": "/react-portfolio/static/media/Run Buddy.0e5d61d554393046212f.png",
+    "static/media/Alex Campbell Resume.pdf": "/react-portfolio/static/media/Alex Campbell Resume.35eb1bc01e428e33ab8e.pdf",
+    "static/media/Tech Blog.png": "/react-portfolio/static/media/Tech Blog.2d45a3ac0bbe3ff31046.png",
+    "static/media/Weather Forecast.png": "/react-portfolio/static/media/Weather Forecast.37701b831770afcb15f0.png",
+    "static/media/MuMa.png": "/react-portfolio/static/media/MuMa.16b1b889ff2178b8628f.png",
+    "index.html": "/react-portfolio/index.html",
+    "main.6d547adc.css.map": "/react-portfolio/static/css/main.6d547adc.css.map",
+    "main.ce2b00a0.js.map": "/react-portfolio/static/js/main.ce2b00a0.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6d547adc.css",
+    "static/js/main.ce2b00a0.js"
+  ]
+}
