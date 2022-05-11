@@ -38,12 +38,6 @@ const Contact = () => {
           <h5>Facebook</h5>
           <a href="https://m.me/alex.campbell.9678"target="_blank">Send a message</a>
           </article>
-          <article className='contact__option'>
-          <AiOutlineMail className='contact__option-icon'/>
-          <h4>Email</h4>
-          <h5>Acampbell8610@gmail.com</h5>
-          <a href="mailto:acampbell8610@gmail.com" target="_blank">Send a message</a>
-          </article>
         </div>
         <form ref= {form} onSubmit={sendEmail}>
           <input type="text" name="name" placeholder="Your Full Name"required />
