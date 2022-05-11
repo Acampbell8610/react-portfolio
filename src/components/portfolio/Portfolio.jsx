@@ -1,54 +1,54 @@
 import React from 'react'
 import './portfolio.css'
 import IMG1 from '../../assets/Run Buddy.png'
-import IMG2 from '../../assets/Run Buddy.png'
-import IMG3 from '../../assets/Run Buddy.png'
-import IMG4 from '../../assets/Run Buddy.png'
-import IMG5 from '../../assets/Run Buddy.png'
-import IMG6 from '../../assets/MuMa.png'
+import IMG2 from '../../assets/Cocktail Party (3).png'
+import IMG3 from '../../assets/MuMa.png'
+import IMG4 from '../../assets/Commercial.png'
+import IMG5 from '../../assets/Tech Blog.png'
+import IMG6 from '../../assets/Weather Forecast.png'
 
 const data = [
   {
     id:1,
     image:IMG1,
     title: 'Run Buddy',
-    github: 'http://github.com/',
-    demo: 'http://github.com/',
+    github: 'https://github.com/Acampbell8610/run-buddy-2.0',
+    demo: 'https://acampbell8610.github.io/run-buddy-2.0/',
   },
   {
     id:2,
     image:IMG2,
-    title: 'Run Buddy2',
-    github: 'http://github.com/',
-    demo: 'http://github.com/',
+    title: 'Cocktail Party',
+    github: 'https://github.com/Acampbell8610/cocktailParty',
+    demo: 'https://cocktail-party-jp-ac.herokuapp.com/',
   },
   {
     id:3,
     image:IMG3,
-    title: 'Run Buddy3',
-    github: 'http://github.com/',
-    demo: 'http://github.com/',
+    title: 'MuMa',
+    github: 'https://github.com/Acampbell8610/MuMa',
+    demo: 'https://acampbell8610.github.io/MuMa/',
   },
   {
     id:4,
     image:IMG4,
-    title: 'Run Buddy4',
-    github: 'http://github.com/',
-    demo: 'http://github.com/',
+    title: 'Photo Port',
+    github: 'https://github.com/Acampbell8610/photo-port',
+    demo: 'https://acampbell8610.github.io/photo-port/',
   },
   {
     id:5,
     image:IMG5,
-    title: 'Run Buddy5',
-    github: 'http://github.com/',
-    demo: 'http://github.com/',
+    title: 'Tech Blog',
+    github: 'https://github.com/Acampbell8610/alex-campbell-tech-blog',
+    demo: 'https://tranquil-bayou-09145.herokuapp.com/',
   },
   {
     id:6,
     image:IMG6,
-    title: 'Run Buddy6',
-    github: 'http://github.com/',
-    demo: 'http://github.com/',
+    title: 'Weather Forcast',
+    github: 'https://github.com/Acampbell8610/alex-campbell-weather-forcast',
+    demo: 'https://acampbell8610.github.io/alex-campbell-weather-forcast/',
   },
 ]
 
@@ -67,7 +67,7 @@ const Portfolio = () => {
               <img src={image} alt={title} />
             </div>
   
-              <h3>This is a portfolio item title</h3>
+              <h3>{title}</h3>
               <div className="porfolio__item-cta">
               <a href={github} className="btn" target="_blank">Github</a>
               <a href={demo} className="btn btn-primary" trarget="_blank">Live Demo</a>
