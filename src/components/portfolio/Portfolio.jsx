@@ -3,7 +3,7 @@ import './portfolio.css'
 import IMG1 from '../../assets/Run Buddy.png'
 import IMG2 from '../../assets/Cocktail Party (3).png'
 import IMG3 from '../../assets/MuMa.png'
-import IMG4 from '../../assets/Commercial.png'
+import IMG4 from '../../assets/Landscape.png'
 import IMG5 from '../../assets/Tech Blog.png'
 import IMG6 from '../../assets/Weather Forecast.png'
 
