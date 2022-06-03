@@ -4,7 +4,7 @@ import IMG1 from '../../assets/Run Buddy.png'
 import IMG2 from '../../assets/Cocktail Party (3).png'
 import IMG3 from '../../assets/MuMa.png'
 import IMG4 from '../../assets/Landscape.png'
-import IMG5 from '../../assets/Tech Blog.png'
+import IMG5 from '../../assets/Plan It.png'
 import IMG6 from '../../assets/Weather Forecast.png'
 
 const data = [
@@ -40,8 +40,8 @@ const data = [
     id:5,
     image:IMG5,
     title: 'Tech Blog',
-    github: 'https://github.com/Acampbell8610/alex-campbell-tech-blog',
-    demo: 'https://tranquil-bayou-09145.herokuapp.com/',
+    github: 'https://github.com/Acampbell8610/Plan-It-Organizer',
+    demo: 'https://plan-it-organizer.herokuapp.com/',
   },
   {
     id:6,

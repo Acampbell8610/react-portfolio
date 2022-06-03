@@ -1,5 +1,5 @@
 import React from 'react'
-import resume from '../../assets/Alex Campbell Resume(1).pdf'
+import resume from '../../assets/Alex Campbell Resume (1).pdf'
 const CTA = () => {
   return (
     <div className='cta'>
